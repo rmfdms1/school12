@@ -18,7 +18,7 @@ while True:
     print(result)
     if result == -1: #없음
         print('오답')
-        try_num +-1
+        try_num +=1
         no_list.append(ans)
     else :#있음
         print('정답')
